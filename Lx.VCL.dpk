@@ -31,7 +31,4 @@ requires
   rtl,
   vcl;
 
-contains
-  Lx.VCL.ImageList in 'Lx.VCL.ImageList.pas';
-
 end.
